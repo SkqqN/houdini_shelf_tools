@@ -3,6 +3,6 @@
 
 *Create a reference copy for each selected nodes*
 
-Mode :
+Actions :
 - **Regular click** : Use Python expressions
 - **CTRL click** : Use HScript expressions
